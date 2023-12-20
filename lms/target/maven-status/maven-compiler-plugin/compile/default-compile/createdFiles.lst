@@ -1,0 +1,16 @@
+com/example/App.class
+com/example/BookSearchRecord.class
+com/example/FinesUserController.class
+com/example/BookSearchController.class
+com/example/DatabaseConnector.class
+module-info.class
+com/example/BookTableRecord.class
+com/example/User.class
+com/example/UserLoginSignupController.class
+com/example/NewBookController.class
+com/example/Fines.class
+com/example/LibraryManager.class
+com/example/BookDetailsController.class
+com/example/AdminPanelController.class
+com/example/BooksUserController.class
+com/example/AdminLoginController.class
