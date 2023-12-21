@@ -1,4 +1,4 @@
-# csc365-project
+# Library Management System
 
 ### Requirements 
 To connect to a MySQL database you must create a secrets.properties file containing the following:
